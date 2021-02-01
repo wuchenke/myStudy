@@ -9,7 +9,8 @@ import java.util.concurrent.ThreadFactory;
  */
 public class ThreadName {
     public static void main(String[] args) {
-
+        System.out.println("print test");
+        System.out.println("111");
     }
 }
 
